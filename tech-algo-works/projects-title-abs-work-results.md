@@ -83,13 +83,3 @@ is_cycle = HolonomyTrace > 1e-7
 
 * **Abstract:** An architectural system design separating high-frequency Geospatial Tracking (C++ daemon) from transient Dialogue Management (Cloud LLM) using zero-copy shared memory. Prevents total location loss during API/network crashes.
 * **Output Metrics:** Preserves continuous location tracking through 15-second network outages. Resynchronizes with the LLM client in <200ms upon reconnection (compared to 5–8 second cold-start baseline delays)—a **34x faster recovery rate**.
-
-### 7. Generational Emergence of Even Numbers from Prime Sumsets
-
-* **Abstract:** A structural number theory framework reorganizing the Goldbach Conjecture. It maps all even integers into generational classes based on the largest prime required to sum to them, proving "Trap Properties" and frontier overlap boundaries using classical estimates.
-* **Statistical / Mathematical Method:** Prime Number Theorem (PNT) asymptotics, Combinatorial set theory.
-
-### 8. Emergence of Even Totients: A Lacunary Frequency Analysis
-
-* **Abstract:** Translating the Goldbach problem into the frequency domain. It analyzes the prime indicator series using a Discrete Fourier Transform (DFT) and defines an analytic signal whose winding number invariant dictates the non-vanishing nature of prime sumsets.
-* **Statistical / Mathematical Method:** Discrete Fourier Transform (DFT), Hilbert Transform, Analytic Signals, Szegő Condition, Winding Numbers.
