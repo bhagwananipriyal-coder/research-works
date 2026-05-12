@@ -116,4 +116,3 @@ Isomorphism Confirmed: True
 
 3. **Spectral Knapsack** proves that combinatorial optimization can be mapped exactly to polynomial algebra, achieving zero optimality gap across all test instances. The spectral method is not an approximation—it's an isomorphism.
 
-These results collectively validate the thesis that **physical/mathematical models (resonance, topology, spectral theory) can replace classical CS algorithms** while maintaining or exceeding exactness guarantees and providing new parallelization pathways.
